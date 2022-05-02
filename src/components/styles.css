@@ -1,0 +1,37 @@
+.primary{
+    background-color: #2e2e2e;
+    color: #FFFFFF;
+}
+
+.p_ligth{
+    background-color: #575757;
+    color: #FFFFFF;
+}
+
+.p_dark{
+    background-color: #030303;
+    color: #FFFFFF;
+}
+
+.secondary{
+    background-color: #FFDB00;
+    color: #000000;
+}
+
+.s_ligth{
+    background-color: #FFFF53;
+    color: #FFFFFF;
+}
+
+.s_dark{
+    background-color: #C7AA00;
+    color: #FFFFFF;
+}
+
+.background{
+    background-color: #E1e2e1;
+}
+
+.surface{
+    background-color: #f5f5f6;
+}
